@@ -1,4 +1,4 @@
-# New Assignment Guid
+# New Assignment Guide
 
 When you first start an assignment, whatever it may be, you will see this! This document will explain what to do for basic help.
 
